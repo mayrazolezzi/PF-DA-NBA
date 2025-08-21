@@ -15,19 +15,37 @@
 ---
 
 ## 📖 Introducción
+ **Resumen del proyecto**
+ 
+Este proyecto se centra en el análisis del rendimiento del top 10 de equipos profesionales de la liga NBA para optimizar el desempeño deportivo y estratégico a partir de los insights obtenidos.
+ 
+ **Metodología** 
+ 
+Para abordar este desafío y alcanzar nuestros objetivos, se implementará una metodología que abarca todo el ciclo de vida del análisis de datos:
+   - **Recolección y Preparación de Datos:** Recopilaremos varios Dataframes de la NBA para centrar nuestro analisis en 5 temporadas entre los años 2011 a 2015. 
+   - **Análisis y Modelado:** Se explorarán los datos para identificar patrones y correlaciones de rendimiento de los equipos con más ranking vs nuestro equipo de interés.
+   - **Visualización y Presentación:** Utilizaremos Power BI para transformar los hallazgos en un dashboard interactivo y accesible. 
 
-Breve descripción del proyecto.  
-👉 Aquí se debe explicar **el objetivo principal**, la **problemática que resuelve** y la **metodología** que seguiremos en el ciclo de vida de los datos.
+**Resultados Esperados** 
+   - Identificar los factores clave que más influyen en las victorias, proporcionando una hoja de ruta clara para la optimización estratégica del equipo.
+   - Detectar tendencias de rendimiento por equipo y temporada, lo que permitirá a los analistas deportivos anticipar cambios en el juego y adaptar sus tácticas.
+   - Generar visualizaciones interactivas que permitan a los tomadores de decisiones explorar datos, responder preguntas estratégicas.
 
 ---
 
 ## 👥 Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
-- Nombre 5
+- Camila Lopez      - DATA ENGINEER
+- Jesús E. Mogan    - DATA ENGINEER
+- Mayra Zolezzi     - DATA ANALYST
+- Lucas Perez       - DATA ANALYST
+
+---
+
+## 📚 Recursos del Proyecto
+🔗 [Presentación en Genially](https://view.genially.com/68a64ddb5e26f77be892a57b/interactive-content-zenith)  
+🔗 Link a la conexión de Google Cloud _(por agregar)_  
+📄 Link al informe final en PDF _(por agregar)_  
 
 ---
 
