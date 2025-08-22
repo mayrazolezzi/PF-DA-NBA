@@ -49,7 +49,7 @@ Para abordar este desafío y alcanzar nuestros objetivos, se implementará una m
 
 ---
 
-## 📂 Organización del Repositorio
+## 📂 Organización del Repositorio --- EN CONSTRUCCIÓN
 
 ```bash
 /data
