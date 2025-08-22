@@ -55,8 +55,8 @@ Para abordar este desafío y alcanzar nuestros objetivos, se implementará una m
 /data
    /raw
       └── dataset_mayra.csv
-      └── dataset_camila.xlsx
-      └── dataset_juan.json
+      └── dataset_camila.csv
+      └── dataset_Lucas.csv
    /processed
       └── final_dataframe.csv
 /docs
