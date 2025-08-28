@@ -44,6 +44,7 @@ Para abordar este desafío y alcanzar nuestros objetivos, se implementará una m
 
 ## 📚 Recursos del Proyecto
 🔗 [Presentación en Genially](https://view.genially.com/68a64ddb5e26f77be892a57b/interactive-content-zenith)  
+🔗 [Presentación introductoria al BI]((https://view.genially.com/68b0bdff2bcfd40918350451/interactive-content-analisis-philadelphia-76ers)) 
 🔗 Link a la conexión de Google Cloud _(por agregar)_  
 📄 Link al informe final en PDF _(por agregar)_  
 
@@ -52,16 +53,32 @@ Para abordar este desafío y alcanzar nuestros objetivos, se implementará una m
 ## 📂 Organización del Repositorio --- EN CONSTRUCCIÓN
 
 ```bash
-/data
-   /raw
-      └── dataset_mayra.csv
-      └── dataset_camila.csv
-      └── dataset_Lucas.csv
-   /processed
-      └── final_dataframe.csv
-/docs
-   └── informe_final.pdf
-/presentations
-   └── link_genially.txt
-   └── link_canva.txt
-README.md
+/main
+   └── README.md
+    /archivo
+       └── Analisis_de_rendimiento.pbix
+    /presentations
+        └── link1_genially.txt
+        └── link2_genially.txt
+/develop
+   └── PF_NBA.ipynb
+   └── csv_clean.file
+
+/Mayra
+   └── Presentación Genially
+   └── Prueba lectura SQLite.ipynb
+   └── Dashboard_partidos.pbix
+
+/Camila      
+  └── final_submission.file
+  └── PF_NBA.ipynb
+
+/Jesus
+   └── Automatizacion.ipynb
+   └── PF_NBA.ipynb
+
+/Lucas
+   └── Ciclo del dato.png
+   └── Gantt (3).png
+   └── PF_NBA.ipynb
+ 
