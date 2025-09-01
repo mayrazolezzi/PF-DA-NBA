@@ -44,7 +44,7 @@ Para abordar este desafío y alcanzar nuestros objetivos, se implementará una m
 
 ## 📚 Recursos del Proyecto
 🔗 [Presentación en Genially Part1](https://view.genially.com/68a64ddb5e26f77be892a57b/interactive-content-zenith)  
-🔗 [Presentación Genially Part2 - introductoria al BI]((https://view.genially.com/68b0bdff2bcfd40918350451/interactive-content-analisis-philadelphia-76ers))
+🔗 [Presentación Genially Part2 - introductoria al BI](https://view.genially.com/68b0bdff2bcfd40918350451/interactive-content-analisis-philadelphia-76ers)
 
 ---
 
