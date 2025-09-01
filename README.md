@@ -1,4 +1,4 @@
-# 🚀 Proyecto de Análisis de Datos
+# 🚀 Proyecto final: Análisis de rendimiento - Philadelphia 76ers
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data-Kaggle-00B3BE?style=for-the-badge" />
